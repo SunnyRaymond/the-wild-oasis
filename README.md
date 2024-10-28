@@ -5,7 +5,7 @@
   <h1>The Wild Oasis by Guo Yichen</h1>
 
   <h3>
-    <a href="https://sunnyray-the-wild-oasis.netlify.app/dashboard">
+    <a href="https://sunnyray-the-wild-oasis.netlify.app/">
       <strong>Check out my live demo here</strong>
       <strong>Login using user: test@test.com pwd: testtest </strong>
     </a>
