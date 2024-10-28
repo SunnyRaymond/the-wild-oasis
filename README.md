@@ -2,7 +2,7 @@
 
   <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
 
-  <h1>The Wild Oasis - Admin</h1>
+  <h1>The Wild Oasis by Guo Yichen</h1>
 
   <h3>
     <a href="https://sunnyray-the-wild-oasis.netlify.app/dashboard">
