@@ -79,7 +79,7 @@ To run this project locally:
    npm install
    ```
 3. Configure environment variables:
-   - Set up Supabase and include necessary environment variables in a `.env` file, referring to `.env.example` as needed.
+   - Set up Supabase and include necessary environment variables, do change the ```supabase.js``` file to your own supabase key.
 4. Start the development server:
    ```bash
    npm run dev
