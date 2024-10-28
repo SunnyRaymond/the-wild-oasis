@@ -30,7 +30,7 @@ Welcome to **The Wild Oasis**! A hotel management web app, enabling hotel staff 
 
 ## Live Site
 
-Explore the live admin app here: [The Wild Oasis - Admin](https://sunnyray-the-wild-oasis.netlify.app/dashboard)
+Explore the live admin app here: [The Wild Oasis](https://sunnyray-the-wild-oasis.netlify.app/)
 
 ## Core Features
 
